@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Joseph Konka",
   title: "Microsoft Ambassador",
-  email: "alex@example.com",
+  email: "JosephKoami.Konka@studentambassadors.com",
   gitHub: "joekakone",
   instagram: "joekakone",
   linkedIn: "joseph-koami-konka",
