@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Databases Analytics Tools",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "DB Analytics Tools is a open source micro-framework that helps data analysts to work with relational databases (data warehouses).",
+    url: "https://pypi.org/project/db-analytics-tools/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Algo Jungle",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Algo Jungle is an e-learning platform dedicated to computer science evangelism with a special focus on algorithms.",
+    url: "https://joekakone.github.io/algojungle/",
   },
   {
-    title: "My Resume Site",
+    title: "Covid19 Tracker",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "In response to coronavirus crisis which touched the world specially West Africa , I created ECOWAS Covid19 Tracker, a dashboard built with Python and Bokeh to follow in real time the evolution of the crisis through West Africa zone.",
+    url: "https://github.com/joekakone/covid19-tracker-for-ecowas",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Deputes.fr",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "You can build dashboard using Bokeh library. This one is an example, it's called Deputes.fr baed on French parliament data. It is an bokeh web application. You can see the dashboard.",
+    url: "https://github.com/joekakone/deputes-fr",
   },
 ];
 
